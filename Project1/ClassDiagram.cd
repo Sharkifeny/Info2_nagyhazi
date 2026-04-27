@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Eloado">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAABAAAAMQAACIAA=</HashCode>
+      <FileName>Eloado.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ido">
+    <Position X="0.5" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AEACAAAAAAAAAAAQAgAABAAAAAAAAAAAAAAhAAAAAAA=</HashCode>
+      <FileName>Ido.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Musorlista">
+    <Position X="6.75" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>gAQAAAAASIAAAAAAAAAAAAACAAEAEAAAAAAACBAEAAA=</HashCode>
+      <FileName>Musorlista.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tarolo&lt;T&gt;">
+    <Position X="2.75" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAABQAEAAAIBAAAAAAAEAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>tarolo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zene">
+    <Position X="4.75" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAgAAAABAAAEAAAUACAAAEAAAAAQAEBAAAAAA=</HashCode>
+      <FileName>Zene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
